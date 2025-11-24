@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
   </a>
   <a href="https://github.com/blurred-machine/awesome-llm-apps">
-    <img src=" https://img.shields.io/badge/github-repo-blue?logo=github" alt="Github original repo link">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Github original repo link">
   </a>
 </p>
 
